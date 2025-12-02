@@ -50,7 +50,7 @@ Designed using Bootstrap utility classes.
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/To-do-app.git
+git clone https://github.com/Disha-Singh-Singraur/To-do-app.git
 cd To-do-app
 
 ### 2. Install dependencies
