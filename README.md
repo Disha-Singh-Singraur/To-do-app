@@ -5,6 +5,10 @@ This project was created to practice state management, UI components, local stor
 
 ---
 
+## Live Preview : https://disha-singh-singraur.github.io/To-do-app/
+
+---
+
 ## 🌟 Features
 
 ### ✅ Add Tasks  
