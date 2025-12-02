@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+  .inputForm{
+    flex-direction: column !important;
+    gap: 1rem !important;
+  }
+}
